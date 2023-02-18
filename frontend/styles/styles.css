@@ -63,7 +63,13 @@ a {
 	display:flex;
 	align-items: center;
 	justify-content: center;
-	font-size: 1.4rem;
+	font-size: 1.75rem;
+	
+}
+
+#counter {
+	color: var(--primary-color);
+	padding: .5rem;
 }
 
 .container {
